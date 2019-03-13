@@ -1,4 +1,4 @@
-// pages/logs/index.js
+0// pages/logs/index.js
   const app = getApp() //必写
    Page({
     data: {

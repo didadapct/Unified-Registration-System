@@ -6,8 +6,8 @@
 
   "window": {
     "navigationBarBackgroundColor": "#ffffff",
-    "navigationBarTextStyle": "black",
     "navigationBarTitleText": "活动列表",
+    "navigationBarTextStyle": "black",
     "backgroundColor": "#eeeeee",
     "backgroundTextStyle": "light"
   }
