@@ -1,6 +1,6 @@
 {
   "pages": [
-    "pages/index/index",
+    "pages/logs/index",
     "pages/logs/logs"
   ],
   "window": {
@@ -9,4 +9,5 @@
     "navigationBarTitleText": "报名信息填写",
     "navigationBarTextStyle": "black"
   }
+
 }

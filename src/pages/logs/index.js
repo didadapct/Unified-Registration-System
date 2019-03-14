@@ -1,7 +1,7 @@
 0// pages/logs/index.js
   const app = getApp() //必写
    Page({
-    /*data: {
+    data: {
       list: {
         id: 6,
         name: '第四届微观摄影大赛',
@@ -9,7 +9,7 @@
         startTime: '2019-3-11 8:00:00',
         endTime: '2019-3-22 8:00:00-22:00:00'
     }
-    },*/
+    },
 
     //事件处理函数
     onLoad: function () {
