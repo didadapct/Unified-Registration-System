@@ -1,0 +1,10 @@
+.title_style {
+  color: #000;
+  line-height: 40px;
+}
+
+.date_style {
+  color:blue;
+  font-size: 36rpx;
+  line-height: 20px;
+}
